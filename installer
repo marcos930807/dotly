@@ -7,7 +7,7 @@ set -euo pipefail
 ##? Usage:
 ##?    install
 
-DOTLY_REPOSITORY=${DOTLY_REPOSITORY:-CodelyTV/dotly}
+DOTLY_REPOSITORY=${DOTLY_REPOSITORY:-marcos930807/dotly}
 DOTLY_BRANCH=${DOTLY_BRANCH:-master}
 
 red='\033[0;31m'
